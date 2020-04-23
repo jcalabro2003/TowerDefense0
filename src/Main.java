@@ -5,6 +5,6 @@ public class Main {
         System.out.println("hello world " + a + " c'est bon la?");
         int b = 3; // wow
         System.out.println("dernier test");
-        boolean cloned = true
+        boolean cloned = true;
     }
 }

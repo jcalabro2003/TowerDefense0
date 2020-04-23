@@ -4,5 +4,6 @@ public class Main {
         int a = 10;
         System.out.println("hello world " + a + " c'est bon la?");
         int b = 3; // wow
+        System.out.println("dernier test");
     }
 }

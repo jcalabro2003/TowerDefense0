@@ -6,5 +6,6 @@ public class Main {
         int b = 3; // wow
         System.out.println("C est vrmt le test ultime du test ultime");
         boolean cloned = true;
+        System.out.println("wow calme toi la calotte de ses morts");
     }
 }
